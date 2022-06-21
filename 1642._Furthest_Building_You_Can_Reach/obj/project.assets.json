@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\4_Median _f_Two_Sorted_Arrays\\4_Median _f_Two_Sorted_Arrays.csproj",
-      "projectName": "4_Median _f_Two_Sorted_Arrays",
-      "projectPath": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\4_Median _f_Two_Sorted_Arrays\\4_Median _f_Two_Sorted_Arrays.csproj",
+      "projectUniqueName": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\1642._Furthest_Building_You_Can_Reach\\1642._Furthest_Building_You_Can_Reach.csproj",
+      "projectName": "1642._Furthest_Building_You_Can_Reach",
+      "projectPath": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\1642._Furthest_Building_You_Can_Reach\\1642._Furthest_Building_You_Can_Reach.csproj",
       "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\4_Median _f_Two_Sorted_Arrays\\obj\\",
+      "outputPath": "D:\\Documenten\\Projects\\Self\\leetcode\\leetcode\\1642._Furthest_Building_You_Can_Reach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
