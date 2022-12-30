@@ -1,0 +1,15 @@
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\bin\Debug\net6.0\976._Largest_Perimeter_Triangle.exe
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\bin\Debug\net6.0\976._Largest_Perimeter_Triangle.deps.json
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\bin\Debug\net6.0\976._Largest_Perimeter_Triangle.runtimeconfig.json
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\bin\Debug\net6.0\976._Largest_Perimeter_Triangle.dll
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\bin\Debug\net6.0\976._Largest_Perimeter_Triangle.pdb
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.csproj.AssemblyReference.cache
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.AssemblyInfoInputs.cache
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.AssemblyInfo.cs
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.csproj.CoreCompileInputs.cache
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.dll
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\refint\976._Largest_Perimeter_Triangle.dll
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.pdb
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\976._Largest_Perimeter_Triangle.genruntimeconfig.cache
+D:\Documenten\Projects\Self\leetcode\leetcode\976._Largest_Perimeter_Triangle\obj\Debug\net6.0\ref\976._Largest_Perimeter_Triangle.dll

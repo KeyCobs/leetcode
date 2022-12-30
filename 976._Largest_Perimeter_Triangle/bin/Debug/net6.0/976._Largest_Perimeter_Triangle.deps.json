@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "976._Largest_Perimeter_Triangle/1.0.0": {
+        "runtime": {
+          "976._Largest_Perimeter_Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "976._Largest_Perimeter_Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
